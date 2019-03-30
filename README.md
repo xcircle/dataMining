@@ -20,3 +20,4 @@ If you want to run it,please prepare:
 # report  
 For number,I choose a colume named 'Price'.  
 And I count like this:  
+![image](https://github.com/xcircle/dataMining/blob/master/1.jpg)
