@@ -18,6 +18,8 @@ If you want to run it,please prepare:
 5.plotly  
   
 # report  
-For number,I choose a colume named 'Price'.  
-And I count like this:  
+For number colume,I choose an example colume named 'Price'.And I count like this:  
+![image](https://github.com/xcircle/dataMining/blob/master/image/2.jpg)
+
+For non-number colume,I choose an example colume named 'Region1'.And I count like this:  
 ![image](https://github.com/xcircle/dataMining/blob/master/image/1.jpg)
