@@ -39,8 +39,8 @@ first is ignore:
 ![image](https://github.com/xcircle/dataMining/blob/master/image/5.jpg)  
 then I draw a plot comparing with the two method:  
 ![image](https://github.com/xcircle/dataMining/blob/master/image/6.jpg)  
-We can see the two plot are very similar in shape,only the average num in the right is more larger.
-
-And I'm exploring more method to fill in the 'NaN' data more wisely.
-I'll continue to focus on this!
+We can see the two plot are very similar in shape,only the average num in the right is more larger.  
+  
+And I'm exploring more method to fill in the 'NaN' data more wisely.  
+I'll continue to focus on this!  
 
